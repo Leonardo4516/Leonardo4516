@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Leonardo%20Hernández&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20|%20AI-Assisted%20Programmer&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Leonardo+Hern%C3%A1ndez&fontSize=70&fontAlignY=35&desc=Backend+Developer+%7C+AI-Assisted+Programmer&descAlignY=55&descAlign=62" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=💻+Desarrollador+Backend;🤖+Especialista+en+Programación+con+IA;🚀+Construyendo+soluciones+escalables;🧠+Prompt+Engineering+y+Automatización" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Desarrollador+Backend%3B%F0%9F%A4%96+Programaci%C3%B3n+con+IA%3B%F0%9F%9A%80+Soluciones+Escalables%3B%F0%9F%A7%A0+Prompt+Engineering+%26+n8n" alt="Typing SVG" />
 </div>
 
 ---
@@ -66,7 +64,7 @@ Soy un desarrollador de software enfocado en construir arquitecturas sólidas y 
 
 <div align="center">
   <a href="https://github.com/Leonardo4516">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leonardo4516&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Leonardo4516&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Leonardo4516">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo4516&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -75,7 +73,7 @@ Soy un desarrollador de software enfocado en construir arquitecturas sólidas y 
 <br>
 <div align="center">
   <a href="https://github.com/Leonardo4516">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
   </a>
 </div>
 
