@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Desarrollador+Backend%3B%F0%9F%A4%96+Programaci%C3%B3n+con+IA%3B%F0%9F%9A%80+Soluciones+Escalables%3B%F0%9F%A7%A0+Prompt+Engineering+%26+n8n" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <br/>
+  <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explorar_Portafolio_3D_en_Vivo-00F3FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portafolio 3D" />
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 Sobre mí
@@ -91,10 +98,13 @@ Soy un desarrollador de software enfocado en construir arquitecturas sólidas y 
 
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/leonardo-hernández-2a6a66389">
+  <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portafolio_Web-00F3FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portafolio Netlify" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-hernández-2a6a66389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Leonardo4516">
+  <a href="https://github.com/Leonardo4516" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
