@@ -71,16 +71,10 @@ Soy un desarrollador de software enfocado en construir arquitecturas sólidas y 
 
 <div align="center">
   <a href="https://github.com/Leonardo4516">
-    <img src="https://github-stats-extended.vercel.app/api?username=Leonardo4516&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Leonardo4516">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo4516&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
-</div>
-<br>
-<div align="center">
   <a href="https://github.com/Leonardo4516">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
 
