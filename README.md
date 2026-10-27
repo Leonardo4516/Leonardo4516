@@ -1,17 +1,17 @@
 <div align="center">
-  <!-- Banner principal con gradiente radical / cyber -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:00f2fe&height=220&section=header&text=Leonardo+Hern%C3%A1ndez&fontSize=65&fontAlignY=38&desc=Backend+Developer+%E2%80%A2+AI-Assisted+Engineering&descAlignY=58&descAlign=50" alt="Leonardo Hernández Banner" width="100%" />
+  <!-- Banner principal con gradiente fluido estilo cyber -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:00f2fe&height=220&section=header&text=Leonardo+Hern%C3%A1ndez&fontSize=65&fontAlignY=38&desc=Backend+Engineer+%E2%80%A2+Spring+Boot+%E2%80%A2+Clean+Architecture&descAlignY=58&descAlign=50" alt="Leonardo Hernández Banner" width="100%" />
 </div>
 
 <div align="center">
-  <!-- Subtítulo dinámico animado sin menciones forzadas a nichos específicos -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Arquitecturas+Backend+Escalables%3B%F0%9F%A4%96+Desarrollo+Asistido+por+Inteligencia+Artificial%3B%F0%9F%92%BE+Modelado+%26+Optimizaci%C3%B3n+de+Bases+de+Datos%3B%F0%9F%92%BB+Soluciones+de+Software+Estructuradas" alt="Typing SVG" />
+  <!-- Subtítulo dinámico animado con enfoque corporativo y stack moderno -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Backend+Escalable%3A+Java+21+%26+Spring+Boot%3B%F0%9F%8F%9B%EF%B8%8F+Arquitectura+Hexagonal+%26+Domain-Driven+Design+(DDD)%3B%F0%9F%94%90+Seguridad+Stateless%3A+Spring+Security+6+%26+JWT%3B%F0%9F%97%84%EF%B8%8F+Bases+de+Datos+Relacionales+%26+Flyway+Migrations%3B%F0%9F%A4%96+Ingenier%C3%ADa+de+Software+Asistida+por+IA" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <br/>
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Explorar_Portafolio_3D-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portafolio 3D" />
+    <img src="https://img.shields.io/badge/🚀_Explorar_Portafolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portafolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/leonardo-hernández-2a6a66389" target="_blank">
@@ -33,14 +33,15 @@
 
 ### 👨‍💻 Sobre mí
 
-¡Hola! Soy **Leonardo Hernández**, desarrollador de software enfocado en construir soluciones estructuradas, confiables y escalables. Me apasiona resolver problemas complejos mediante lógica de programación clara, buenas prácticas de ingeniería y bases de datos bien diseñadas.
+¡Hola! Soy **Leonardo Hernández**, desarrollador de software enfocado en la construcción de **arquitecturas backend robustas, desacopladas y de alta concurrencia**. Mi especialidad es el ecosistema **Java 21 LTS y Spring Boot**, diseñando soluciones estructuradas bajo principios de **Domain-Driven Design (DDD)**, **Arquitectura Hexagonal (Puertos y Adaptadores)** y control riguroso de datos con **Flyway** y **PostgreSQL**.
 
-Trabajo con una metodología moderna donde **integro la Inteligencia Artificial como un copiloto activo** en mi día a día. Utilizo modelos de lenguaje y herramientas asistidas para acelerar la investigación técnica, optimizar la calidad del código, robustecer pruebas y explorar arquitecturas eficientes con agilidad.
+Complemento mi disciplina técnica integrando **Inteligencia Artificial como acelerador de ingeniería**: aplico prompts estructurados, análisis asistido y flujos agénticos para reducir fricción en el prototipado, optimizar la cobertura de pruebas unitarias y garantizar estándares de calidad exigentes en cada entrega.
 
-* 💡 **Perfil y competencias:** Construcción de lógica backend, diseño y modelado de bases de datos relacionales (PostgreSQL, MySQL) e integración de software modular.
-* 🤖 **Ingeniería asistida por IA:** Aplicación práctica de prompts avanzados y flujos asistidos para elevar el rendimiento y mantener altos estándares de calidad.
-* 💬 **Conversemos sobre:** Lógica backend, optimización en bases de datos, arquitectura de software y nuevas tecnologías.
-* 📫 **Email:** [lehernan.07@gmail.com](mailto:lehernan.07@gmail.com)
+* ☕ **Especialidad Backend:** Java 21, Spring Boot, Spring Security 6, JWT, Microservicios y APIs RESTful.
+* 🏛️ **Buenas Prácticas:** Arquitectura Hexagonal (DDD), Código Limpio (Clean Code), Principios SOLID y Testing automatizado con JUnit 5.
+* 🗄️ **Bases de Datos & DevOps:** PostgreSQL, MySQL, control de migraciones con Flyway, contenedorización con Docker / Docker Compose y entornos Linux.
+* 🤖 **Ingeniería Asistida por IA:** Flujos agénticos y copilotos técnicos para elevar la velocidad y confiabilidad del software.
+* 📫 **Contacto:** [lehernan.07@gmail.com](mailto:lehernan.07@gmail.com)
 
 ---
 
@@ -49,20 +50,20 @@ Trabajo con una metodología moderna donde **integro la Inteligencia Artificial 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="38%">
-        <b>☕ Backend & Lenguajes</b>
+      <td align="center" width="40%">
+        <b>☕ Backend & Arquitectura</b>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,nodejs,python,js,bash&theme=dark" alt="Backend Stack" />
+        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,bash&theme=dark" alt="Backend Stack" />
       </td>
       <td align="center" width="42%">
         <b>🗄️ Bases de Datos & DevOps</b>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,postman&theme=dark" alt="DB & DevOps Stack" />
       </td>
-      <td align="center" width="20%">
-        <b>🎨 Maquetación Web</b>
+      <td align="center" width="18%">
+        <b>🎨 Web Standards</b>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Maquetación Web" />
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Standards" />
       </td>
     </tr>
   </table>
@@ -71,13 +72,17 @@ Trabajo con una metodología moderna donde **integro la Inteligencia Artificial 
 <br/>
 
 <div align="center">
-  <b>⚡ Asistencia con IA, Calidad & Entornos</b>
+  <b>⚡ Especializaciones, Seguridad & Calidad Empresarial</b>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Java_21_LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Agentic_Workflows-7928CA?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Spring_Security_6_%2B_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flyway_Migrations-CC0202?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hexagonal_%2F_DDD-7928CA?style=for-the-badge&logo=diagram-next&logoColor=white" alt="DDD Hexagonal" />
   &nbsp;
   <img src="https://img.shields.io/badge/JUnit_5_Testing-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   &nbsp;
@@ -92,10 +97,10 @@ Trabajo con una metodología moderna donde **integro la Inteligencia Artificial 
 
 ```mermaid
 flowchart LR
-    A[📋 Requerimiento & Arquitectura] --> B[🤖 Co-Diseño con IA & Prototipado]
-    B --> C[💻 Backend Robusto & SQL]
-    C --> D[🧪 Testing Automatizado JUnit/Mock]
-    D --> E[🐳 Contenedores Docker & Deploy]
+    A[📋 Requerimiento & Modelado DDD] --> B[🤖 Co-Diseño con IA & Prototipado]
+    B --> C[☕ Core de Dominio & Casos de Uso]
+    C --> D[🔐 Adaptadores: Spring Boot, JWT & Flyway]
+    D --> E[🧪 Testing JUnit 5 & Docker Compose]
     
     style A fill:#0d1117,stroke:#fe428e,stroke-width:2px,color:#fff
     style B fill:#0d1117,stroke:#7928ca,stroke-width:2px,color:#fff
@@ -133,6 +138,18 @@ flowchart LR
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
+        <a href="https://github.com/Leonardo4516/telemedicina-security">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=telemedicina-security&theme=radical&hide_border=true" alt="Telemedicina Security Pin" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Leonardo4516/Proyecto_RentaHerramientas">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=Proyecto_RentaHerramientas&theme=radical&hide_border=true" alt="Renta Herramientas Pin" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <a href="https://github.com/Leonardo4516/Sica_project">
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=Sica_project&theme=radical&hide_border=true" alt="Sica Project Pin" width="100%" />
         </a>
@@ -143,18 +160,6 @@ flowchart LR
         </a>
       </td>
     </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/chatbot-gestor-pedidos">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=chatbot-gestor-pedidos&theme=radical&hide_border=true" alt="Chatbot Pedidos Pin" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/acme-bank">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=acme-bank&theme=radical&hide_border=true" alt="ACME Bank Pin" width="100%" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -162,10 +167,10 @@ flowchart LR
 
 | Proyecto | Descripción & Aspectos Clave | Stack Tecnológico | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 🛡️ **Sica Project** | **Control de Acceso Vehicular & Peatonal**<br/>• Seguridad basada en roles (RBAC)<br/>• Persistencia relacional en Docker Compose<br/>• Suite de pruebas unitarias automatizadas con JUnit 5 | ![](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br/>![](https://img.shields.io/badge/PostgreSQL_15-316192?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br/>![](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/Sica_project) |
-| 🗄️ **Data Pipeline PostgreSQL** | **Volcado, Normalización y Calidad de Datos**<br/>• Ingesta masiva y validación de esquema geográfico (`world_db`)<br/>• Lógica de integridad referencial y funciones PL/pgSQL<br/>• Entorno de ejecución desacoplado en contenedores | ![](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/volcado-datos-postgresql) |
-| 🤖 **Chatbot Gestor de Pedidos** | **Automatización Conversacional Asistida por IA**<br/>• Asistencia conversacional para gestión y checkout de pedidos<br/>• Orquestación de flujos y webhooks para mensajería<br/>• Desacoplamiento de reglas de negocio en Node.js | ![](https://img.shields.io/badge/Chatbot_IA-FF6F00?style=flat-square&logo=openai&logoColor=white)<br/>![](https://img.shields.io/badge/Automatización-EA4B71?style=flat-square&logo=n8n&logoColor=white)<br/>![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/chatbot-gestor-pedidos) |
-| 🏦 **Acme Bank** | **Portal Transaccional Bancario**<br/>• Simulación completa de operaciones y validación en tiempo real<br/>• Arquitectura modular con Web Components nativos<br/>• Persistencia transaccional segura en cliente (Storage API) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br/>![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/acme-bank) |
+| 🏥 **Telemedicina & Triaje Clínico IA** | **Plataforma Integral de Salud Mental y Triaje Clínico con IA**<br/>• Arquitectura Hexagonal basada en Domain-Driven Design (DDD Multi-Módulo)<br/>• Seguridad Stateless robusta con Spring Security 6 y autenticación JWT<br/>• Persistencia relacional de 35+ tablas PostgreSQL con versionado estricto vía Flyway | ![](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br/>![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)<br/>![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/Flyway-CC0202?style=flat-square&logo=flyway&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/telemedicina-security) |
+| 🏗️ **RentaTools Marketplace** | **Plataforma B2B/B2C para Renta de Maquinaria y Equipos**<br/>• Sistema empresarial transaccional con control de flota, reservas y facturación<br/>• Control de acceso basado en roles (RBAC: Admin, Proveedor, Cliente)<br/>• Diseño modular DDD con persistencia desacoplada en PostgreSQL / MySQL | ![](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br/>![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)<br/>![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)<br/>![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/Proyecto_RentaHerramientas) |
+| 🛡️ **Sica Project** | **Control de Acceso Vehicular & Peatonal**<br/>• Seguridad física y lógica basada en roles (RBAC)<br/>• Persistencia relacional orquestada y desplegada en Docker Compose<br/>• Suite integral de pruebas unitarias automatizadas con JUnit 5 | ![](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br/>![](https://img.shields.io/badge/PostgreSQL_15-316192?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br/>![](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/Sica_project) |
+| 🗄️ **Data Pipeline PostgreSQL** | **Volcado, Normalización y Calidad de Datos**<br/>• Ingesta masiva y validación de esquema relacional geográfico (`world_db`)<br/>• Lógica de integridad referencial y funciones de negocio en PL/pgSQL<br/>• Entorno de ejecución desacoplado y reproducible en contenedores Docker | ![](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br/>![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [Ver Código ↗](https://github.com/Leonardo4516/volcado-datos-postgresql) |
 
 <br/>
 
@@ -179,7 +184,7 @@ flowchart LR
   <br/><br/>
 
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portafolio_3D-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portafolio Netlify" />
+    <img src="https://img.shields.io/badge/🌐_Portafolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portafolio Netlify" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/leonardo-hernández-2a6a66389" target="_blank">
