@@ -1,16 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="190" height="42" viewBox="0 0 190 42" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="46" viewBox="0 0 200 46" fill="none">
   <defs>
-    <linearGradient id="btn_bg" x1="0" y1="0" x2="190" y2="42" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1B0505"/>
-      <stop offset="100%" stop-color="#0B0303"/>
+    <!-- Outer Bevel Gradient -->
+    <linearGradient id="bevel_btn-portfolio.svg" x1="0" y1="0" x2="0" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#3D0C0C" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#150404" stop-opacity="0.6" />
     </linearGradient>
-    <filter id="btn_glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/><feComposite in="SourceGraphic" in2="blur" operator="over"/>
+
+    <!-- Surface Titanium Gradient -->
+    <linearGradient id="surface_btn-portfolio.svg" x1="0" y1="0" x2="200" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A1A22" />
+      <stop offset="40%" stop-color="#121216" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <!-- Top Highlight Inner Specular -->
+    <linearGradient id="specular_btn-portfolio.svg" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#FF3344" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.05" />
+    </linearGradient>
+
+    <filter id="led_glow_btn-portfolio.svg" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
-  <rect x="1" y="1" width="188" height="40" rx="8" fill="url(#btn_bg)" stroke="#E50914" stroke-width="1.5" filter="url(#btn_glow)"/>
-  <g transform="translate(18, 12)">
-    <polygon points="5 3 19 12 5 21 5 3" fill="#E50914" stroke="#E50914" stroke-width="1"/>
+
+  <!-- Button Drop Shadow Base -->
+  <rect x="2" y="3" width="196" height="42" rx="9" fill="#000000" fill-opacity="0.6" />
+
+  <!-- Outer Bevel Rim -->
+  <rect x="1" y="1" width="198" height="43" rx="9" fill="url(#surface_btn-portfolio.svg)" stroke="url(#bevel_btn-portfolio.svg)" stroke-width="1.5" />
+
+  <!-- Inner Specular Reflection Line -->
+  <line x1="12" y1="3" x2="188" y2="3" stroke="url(#specular_btn-portfolio.svg)" stroke-width="1" stroke-linecap="round" />
+
+  <!-- Left LED Power Dot Indicator -->
+  <circle cx="20" cy="22" r="3" fill="#FF2233" filter="url(#led_glow_btn-portfolio.svg)" />
+  <circle cx="20" cy="22" r="1.5" fill="#FFFFFF" />
+
+  <!-- Icon Section -->
+  <g transform="translate(32, 14)">
+    <polygon points="3 2 15 9 3 16 3 2" fill="#E50914" stroke="#E50914" stroke-width="1"/>
   </g>
-  <text x="44" y="26" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">EXPLORAR PORTAFOLIO</text>
+
+  <!-- Typography -->
+  <text x="56" y="27" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6">EXPLORAR PORTAFOLIO</text>
+  
+  <!-- Right Micro Arrow -->
+  <path d="M182 19L185 22L182 25" stroke="#E50914" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>

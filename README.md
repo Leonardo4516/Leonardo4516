@@ -1,7 +1,11 @@
 <div align="center">
-  <!-- Banner Principal en Negro Obsidiana & Carmesí -->
-  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/header.svg?v=3" alt="Leonardo Hernández - Backend Engineer" width="100%" />
+  <!-- Banner Principal: Render Cinematográfico en Negro Obsidiana & Carmesí -->
+  <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/hero_artwork.jpg?v=3" alt="Leonardo Hernández - Backend Systems & Architecture" width="100%" style="border-radius: 12px; border: 1px solid #3B0C0C;" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <!-- Subtítulo Dinámico en Rojo Alta Definición -->
@@ -10,21 +14,21 @@
 
 <div align="center">
   <br/>
-  <!-- Botones de Acción Estilizados en Negro y Rojo -->
+  <!-- Botones de Acción Táctiles 3D (Titanio & LED Carmesí) -->
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg?v=3" alt="Explorar Portafolio" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg?v=3" alt="Explorar Portafolio" height="42" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/leonardo-hern%C3%A1ndez-2a6a66389" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg?v=3" alt="LinkedIn" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg?v=3" alt="LinkedIn" height="42" />
   </a>
   &nbsp;
   <a href="mailto:lehernan.07@gmail.com">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg?v=3" alt="Contacto Directo" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg?v=3" alt="Contacto Directo" height="42" />
   </a>
   &nbsp;
   <a href="https://github.com/Leonardo4516?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg?v=3" alt="Repositorios" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg?v=3" alt="Repositorios" height="42" />
   </a>
 </div>
 
@@ -93,6 +97,75 @@ flowchart LR
 
 ---
 
+### 🚀 Galería de Proyectos Destacados (Showcase Visual)
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <!-- Proyecto 1: Telemedicina -->
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/Leonardo4516/telemedicina-security">
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_telemedicina.jpg?v=3" alt="Telemedicina & Triaje IA" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+        </a>
+        <br/><br/>
+        <h3>🏥 Telemedicina &amp; Triaje Clínico IA</h3>
+        <p align="left"><b>Arquitectura Hexagonal (DDD Multi-Módulo)</b> • Seguridad Stateless con Spring Security 6 y JWT Claims • Persistencia relacional de 35+ tablas PostgreSQL con versionado automatizado vía Flyway.</p>
+        <p align="center">
+          <a href="https://github.com/Leonardo4516/telemedicina-security">
+            <img src="https://img.shields.io/badge/Explorar_Código_↗-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+          </a>
+        </p>
+      </td>
+      <!-- Proyecto 2: RentaTools -->
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/Leonardo4516/Proyecto_RentaHerramientas">
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_rentatools.jpg?v=3" alt="RentaTools Marketplace" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+        </a>
+        <br/><br/>
+        <h3>🏗️ RentaTools Marketplace B2B/B2C</h3>
+        <p align="left"><b>Plataforma transaccional de renta de maquinaria pesada</b> con reservas en línea, control de ocupación de flota, seguridad por roles (RBAC) y persistencia desacoplada.</p>
+        <p align="center">
+          <a href="https://github.com/Leonardo4516/Proyecto_RentaHerramientas">
+            <img src="https://img.shields.io/badge/Explorar_Código_↗-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Proyecto 3: Sica Project -->
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/Leonardo4516/Sica_project">
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_sica.jpg?v=3" alt="SICA Access Control" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+        </a>
+        <br/><br/>
+        <h3>🛡️ Sica Project — Control de Acceso</h3>
+        <p align="left"><b>Control integral de acceso vehicular y peatonal</b> con seguridad por perfiles (RBAC), entorno orquestado con Docker Compose y suite de pruebas unitarias automatizadas con JUnit 5.</p>
+        <p align="center">
+          <a href="https://github.com/Leonardo4516/Sica_project">
+            <img src="https://img.shields.io/badge/Explorar_Código_↗-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+          </a>
+        </p>
+      </td>
+      <!-- Proyecto 4: Data Pipeline -->
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/Leonardo4516/volcado-datos-postgresql">
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_datapipeline.jpg?v=3" alt="Data Pipeline PostgreSQL" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+        </a>
+        <br/><br/>
+        <h3>🗄️ Data Pipeline &amp; Calidad de Datos</h3>
+        <p align="left"><b>Ingesta, volcado y normalización masiva de datos geográficos</b> (`world_db`) mediante procedimientos PL/pgSQL, validación de integridad referencial y ejecución en Docker.</p>
+        <p align="center">
+          <a href="https://github.com/Leonardo4516/volcado-datos-postgresql">
+            <img src="https://img.shields.io/badge/Explorar_Código_↗-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 Actividad y Medidores de Métricas en GitHub
 
 <div align="center">
@@ -111,48 +184,6 @@ flowchart LR
     </tr>
   </table>
 </div>
-
----
-
-### 🚀 Proyectos Destacados
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/telemedicina-security">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=telemedicina-security&bg_color=0A0A0C&title_color=E50914&text_color=A1A1AA&icon_color=DC2626&border_color=2E0808&hide_border=false" alt="Telemedicina Security Pin" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/Proyecto_RentaHerramientas">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=Proyecto_RentaHerramientas&bg_color=0A0A0C&title_color=E50914&text_color=A1A1AA&icon_color=DC2626&border_color=2E0808&hide_border=false" alt="Renta Herramientas Pin" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/Sica_project">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=Sica_project&bg_color=0A0A0C&title_color=E50914&text_color=A1A1AA&icon_color=DC2626&border_color=2E0808&hide_border=false" alt="Sica Project Pin" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Leonardo4516/volcado-datos-postgresql">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Leonardo4516&repo=volcado-datos-postgresql&bg_color=0A0A0C&title_color=E50914&text_color=A1A1AA&icon_color=DC2626&border_color=2E0808&hide_border=false" alt="PostgreSQL Pipeline Pin" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-| Proyecto | Descripción & Aspectos Clave | Stack Tecnológico | Enlaces |
-| :--- | :--- | :--- | :---: |
-| 🏥 **Telemedicina & Triaje Clínico IA** | **Plataforma Integral de Salud Mental y Triaje Clínico con IA**<br/>• Arquitectura Hexagonal basada en Domain-Driven Design (DDD Multi-Módulo)<br/>• Seguridad Stateless robusta con Spring Security 6 y autenticación JWT<br/>• Persistencia relacional de 35+ tablas PostgreSQL con versionado estricto vía Flyway | `Java 21 LTS`<br/>`Spring Boot`<br/>`PostgreSQL 16`<br/>`Flyway` | [Ver Código ↗](https://github.com/Leonardo4516/telemedicina-security) |
-| 🏗️ **RentaTools Marketplace** | **Plataforma B2B/B2C para Renta de Maquinaria y Equipos**<br/>• Sistema empresarial transaccional con control de flota, reservas y facturación<br/>• Control de acceso basado en roles (RBAC: Admin, Proveedor, Cliente)<br/>• Diseño modular DDD con persistencia desacoplada en PostgreSQL / MySQL | `Java 21 LTS`<br/>`Spring Boot`<br/>`Spring Security 6`<br/>`Docker Compose` | [Ver Código ↗](https://github.com/Leonardo4516/Proyecto_RentaHerramientas) |
-| 🛡️ **Sica Project** | **Control de Acceso Vehicular & Peatonal**<br/>• Seguridad física y lógica basada en roles (RBAC)<br/>• Persistencia relacional orquestada y desplegada en Docker Compose<br/>• Suite integral de pruebas unitarias automatizadas con JUnit 5 | `Java 17`<br/>`PostgreSQL 15`<br/>`Docker`<br/>`JUnit 5` | [Ver Código ↗](https://github.com/Leonardo4516/Sica_project) |
-| 🗄️ **Data Pipeline PostgreSQL** | **Volcado, Normalización y Calidad de Datos**<br/>• Ingesta masiva y validación de esquema relacional geográfico (`world_db`)<br/>• Lógica de integridad referencial y funciones de negocio en PL/pgSQL<br/>• Entorno de ejecución desacoplado y reproducible en contenedores Docker | `PL/pgSQL`<br/>`PostgreSQL`<br/>`Docker`<br/>`Data Quality` | [Ver Código ↗](https://github.com/Leonardo4516/volcado-datos-postgresql) |
 
 <br/>
 
