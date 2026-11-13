@@ -147,13 +147,8 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 ### 📊 Actividad y Medidores de Métricas en GitHub
 
 <p align="center">
-  <a href="https://github.com/Leonardo4516">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo4516&theme=dark&background=0A0A0C&border=2E0808&stroke=E50914&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=DC2626&sideLabels=A1A1AA&dates=71717A&hide_border=false" alt="GitHub Streak" height="200" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Leonardo4516">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&bg_color=0A0A0C&title_color=E50914&text_color=E4E4E7&border_color=2E0808&hide_border=false" alt="Top Languages" height="200" />
-  </a>
+  <a href="https://github.com/Leonardo4516" style="text-decoration:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo4516&theme=dark&background=0A0A0C&border=2E0808&stroke=E50914&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=DC2626&sideLabels=A1A1AA&dates=71717A&hide_border=false" alt="GitHub Streak" height="200" /></a>
+  <a href="https://github.com/Leonardo4516" style="text-decoration:none;"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardo4516&layout=compact&bg_color=0A0A0C&title_color=E50914&text_color=E4E4E7&border_color=2E0808&hide_border=false" alt="Top Languages" height="200" /></a>
 </p>
 
 <br/>
