@@ -58,7 +58,7 @@
     <text x="0" y="26" fill="#FFFFFF" font-family="'JetBrains Mono', monospace" font-size="30" font-weight="900" letter-spacing="-0.5">RBAC</text>
     <circle cx="82" cy="18" r="3" fill="#E50914" filter="url(#gm_glow)"/>
     <text x="0" y="52" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700">Seguridad Stateless</text>
-    <text x="0" y="72" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Spring Security 6 • JWT Claims</text>
+    <text x="0" y="72" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Spring Security • JWT Claims</text>
   </g>
 
   <!-- Divider 3 -->
@@ -69,6 +69,6 @@
     <text x="0" y="26" fill="#FFFFFF" font-family="'JetBrains Mono', monospace" font-size="30" font-weight="900" letter-spacing="-0.5">100%</text>
     <circle cx="82" cy="18" r="3" fill="#E50914" filter="url(#gm_glow)"/>
     <text x="0" y="52" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700">Testing Automatizado</text>
-    <text x="0" y="72" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">JUnit 5 • Mockito • Docker</text>
+    <text x="0" y="72" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">JUnit • Mockito • Docker</text>
   </g>
 </svg>
