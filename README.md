@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Banner Principal: Render Cinematográfico en Negro Obsidiana & Carmesí -->
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/hero_artwork.jpg?v=3" alt="Leonardo Hernández - Backend Systems & Architecture" width="100%" style="border-radius: 12px; border: 1px solid #3B0C0C;" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/hero_artwork.jpg?v=4" alt="Leonardo Hernández - Backend Systems & Architecture" width="100%" style="border-radius: 12px; border: 1px solid #3B0C0C;" />
   </a>
 </div>
 
@@ -16,19 +16,19 @@
   <br/>
   <!-- Botones de Acción Táctiles 3D (Titanio & LED Carmesí) -->
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg?v=3" alt="Explorar Portafolio" height="42" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg?v=4" alt="Explorar Portafolio" height="42" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/leonardo-hern%C3%A1ndez-2a6a66389" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg?v=3" alt="LinkedIn" height="42" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg?v=4" alt="LinkedIn" height="42" />
   </a>
   &nbsp;
   <a href="mailto:lehernan.07@gmail.com">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg?v=3" alt="Contacto Directo" height="42" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg?v=4" alt="Contacto Directo" height="42" />
   </a>
   &nbsp;
   <a href="https://github.com/Leonardo4516?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg?v=3" alt="Repositorios" height="42" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg?v=4" alt="Repositorios" height="42" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 ### 📈 Estándares Técnicos & Calidad de Arquitectura
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/metrics-summary.svg?v=3" alt="Métricas Técnicas de Arquitectura" width="100%" />
+  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/metrics-summary.svg?v=4" alt="Métricas Técnicas de Arquitectura" width="100%" />
 </div>
 
 ---
@@ -57,22 +57,22 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 <div align="center">
   <table border="0" cellpadding="4" cellspacing="6">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg?v=3" alt="Java 21 LTS" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg?v=3" alt="Spring Boot" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg?v=3" alt="Spring Security 6" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg?v=3" alt="Hexagonal DDD" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg?v=4" alt="Java 21 LTS" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg?v=4" alt="Spring Boot" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg?v=4" alt="Spring Security 6" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg?v=4" alt="Hexagonal DDD" width="220" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg?v=3" alt="PostgreSQL" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg?v=3" alt="Flyway" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg?v=3" alt="Docker" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg?v=3" alt="JUnit 5" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg?v=4" alt="PostgreSQL" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg?v=4" alt="Flyway" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg?v=4" alt="Docker" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg?v=4" alt="JUnit 5" width="220" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg?v=3" alt="Python 3.12" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg?v=3" alt="Linux & Bash" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg?v=3" alt="Git" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ai.svg?v=3" alt="AI Assisted" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg?v=4" alt="Python 3.12" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg?v=4" alt="Linux & Bash" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg?v=4" alt="Git" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ai.svg?v=4" alt="AI Assisted" width="220" /></td>
     </tr>
   </table>
 </div>
@@ -105,7 +105,7 @@ flowchart LR
       <!-- Proyecto 1: Telemedicina -->
       <td width="50%" valign="top" align="center">
         <a href="https://github.com/Leonardo4516/telemedicina-security">
-          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_telemedicina.jpg?v=3" alt="Telemedicina & Triaje IA" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_telemedicina.jpg?v=4" alt="Telemedicina & Triaje IA" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
         </a>
         <br/><br/>
         <h3>🏥 Telemedicina &amp; Triaje Clínico IA</h3>
@@ -119,7 +119,7 @@ flowchart LR
       <!-- Proyecto 2: RentaTools -->
       <td width="50%" valign="top" align="center">
         <a href="https://github.com/Leonardo4516/Proyecto_RentaHerramientas">
-          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_rentatools.jpg?v=3" alt="RentaTools Marketplace" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_rentatools.jpg?v=4" alt="RentaTools Marketplace" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
         </a>
         <br/><br/>
         <h3>🏗️ RentaTools Marketplace B2B/B2C</h3>
@@ -135,7 +135,7 @@ flowchart LR
       <!-- Proyecto 3: Sica Project -->
       <td width="50%" valign="top" align="center">
         <a href="https://github.com/Leonardo4516/Sica_project">
-          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_sica.jpg?v=3" alt="SICA Access Control" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_sica.jpg?v=4" alt="SICA Access Control" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
         </a>
         <br/><br/>
         <h3>🛡️ Sica Project — Control de Acceso</h3>
@@ -149,7 +149,7 @@ flowchart LR
       <!-- Proyecto 4: Data Pipeline -->
       <td width="50%" valign="top" align="center">
         <a href="https://github.com/Leonardo4516/volcado-datos-postgresql">
-          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_datapipeline.jpg?v=3" alt="Data Pipeline PostgreSQL" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
+          <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/cards/card_datapipeline.jpg?v=4" alt="Data Pipeline PostgreSQL" width="100%" style="border-radius: 10px; border: 1px solid #3B0C0C;" />
         </a>
         <br/><br/>
         <h3>🗄️ Data Pipeline &amp; Calidad de Datos</h3>
