@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140" fill="none">
+  <defs>
+    <linearGradient id="m_bg" x1="0" y1="0" x2="960" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#111116"/>
+      <stop offset="100%" stop-color="#08080A"/>
+    </linearGradient>
+    <linearGradient id="m_border" x1="0" y1="0" x2="960" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#2D0B0B" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#E50914" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="140" rx="12" fill="url(#m_bg)" stroke="url(#m_border)" stroke-width="1"/>
+
+  <!-- Col 1: Architecture -->
+  <g transform="translate(48, 28)">
+    <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">DDD</text>
+    <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Arquitectura Hexagonal</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Dominio puro &amp; desacoplado</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="260" y1="25" x2="260" y2="115" stroke="#260A0A" stroke-width="1"/>
+
+  <!-- Col 2: Database Versioning -->
+  <g transform="translate(290, 28)">
+    <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">35+</text>
+    <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Tablas Relacionales</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Control versionado con Flyway</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="500" y1="25" x2="500" y2="115" stroke="#260A0A" stroke-width="1"/>
+
+  <!-- Col 3: Security & Stateless -->
+  <g transform="translate(530, 28)">
+    <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">RBAC</text>
+    <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Seguridad Stateless</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Spring Security 6 + JWT Claims</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="740" y1="25" x2="740" y2="115" stroke="#260A0A" stroke-width="1"/>
+
+  <!-- Col 4: Testing & Quality -->
+  <g transform="translate(770, 28)">
+    <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">100%</text>
+    <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Testing Automatizado</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">JUnit 5, Mockito &amp; Docker</text>
+  </g>
+</svg>

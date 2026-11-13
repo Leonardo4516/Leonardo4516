@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" fill="none">
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="220" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#111115" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+    <linearGradient id="border_grad" x1="0" y1="0" x2="220" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.6" />
+      <stop offset="40%" stop-color="#3B0C0C" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1A0505" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="red_glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF3344" />
+      <stop offset="100%" stop-color="#B91C1C" />
+    </linearGradient>
+    <filter id="subtle_glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="0.5" y="0.5" width="219" height="63" rx="10" fill="url(#bg_grad)" stroke="url(#border_grad)" />
+  
+  <!-- Subtle Top Accent Red Indicator -->
+  <rect x="14" y="0.5" width="28" height="2" rx="1" fill="#E50914" />
+  
+  <!-- Icon Container -->
+  <g transform="translate(14, 14)">
+    <rect width="36" height="36" rx="8" fill="#18181D" stroke="#2D0F0F" stroke-width="1" />
+    <svg x="6" y="6" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+      <path fill="#DC2626" d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+    </svg>
+  </g>
+
+  <!-- Typography -->
+  <text x="60" y="29" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="13" font-weight="700" letter-spacing="0.2">Flyway Migrations</text>
+  <text x="60" y="45" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="10.5" font-weight="500" letter-spacing="0.1">Versionado DDL / SQL</text>
+  
+  <!-- Micro Status Dot -->
+  <circle cx="204" cy="16" r="2.5" fill="#E50914" filter="url(#subtle_glow)" />
+</svg>
