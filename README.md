@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal en Negro Obsidiana & Carmesí -->
-  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/header.svg" alt="Leonardo Hernández - Backend Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/header.svg?v=3" alt="Leonardo Hernández - Backend Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -12,19 +12,19 @@
   <br/>
   <!-- Botones de Acción Estilizados en Negro y Rojo -->
   <a href="https://portafolio-leonardo-hernandez.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg" alt="Explorar Portafolio" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-portfolio.svg?v=3" alt="Explorar Portafolio" height="38" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/leonardo-hern%C3%A1ndez-2a6a66389" target="_blank">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg" alt="LinkedIn" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-linkedin.svg?v=3" alt="LinkedIn" height="38" />
   </a>
   &nbsp;
   <a href="mailto:lehernan.07@gmail.com">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg" alt="Contacto Directo" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-email.svg?v=3" alt="Contacto Directo" height="38" />
   </a>
   &nbsp;
   <a href="https://github.com/Leonardo4516?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg" alt="Repositorios" height="38" />
+    <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/btn-repos.svg?v=3" alt="Repositorios" height="38" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 ### 📈 Estándares Técnicos & Calidad de Arquitectura
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/metrics-summary.svg" alt="Métricas Técnicas de Arquitectura" width="100%" />
+  <img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/banners/metrics-summary.svg?v=3" alt="Métricas Técnicas de Arquitectura" width="100%" />
 </div>
 
 ---
@@ -53,22 +53,22 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 <div align="center">
   <table border="0" cellpadding="4" cellspacing="6">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg" alt="Java 21 LTS" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg" alt="Spring Boot" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg" alt="Spring Security 6" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg" alt="Hexagonal DDD" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg?v=3" alt="Java 21 LTS" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg?v=3" alt="Spring Boot" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg?v=3" alt="Spring Security 6" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg?v=3" alt="Hexagonal DDD" width="220" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg" alt="PostgreSQL" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg" alt="Flyway" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg" alt="Docker" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg" alt="JUnit 5" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg?v=3" alt="PostgreSQL" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg?v=3" alt="Flyway" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg?v=3" alt="Docker" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg?v=3" alt="JUnit 5" width="220" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg" alt="Python 3.12" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg" alt="Linux & Bash" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg" alt="Git" width="220" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ai.svg" alt="AI Assisted" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg?v=3" alt="Python 3.12" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg?v=3" alt="Linux & Bash" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg?v=3" alt="Git" width="220" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ai.svg?v=3" alt="AI Assisted" width="220" /></td>
     </tr>
   </table>
 </div>

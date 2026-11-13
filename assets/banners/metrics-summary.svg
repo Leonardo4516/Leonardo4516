@@ -17,7 +17,7 @@
   <g transform="translate(48, 28)">
     <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">DDD</text>
     <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Arquitectura Hexagonal</text>
-    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Dominio puro &amp; desacoplado</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Dominio puro • desacoplado</text>
   </g>
 
   <!-- Divider -->
@@ -33,7 +33,7 @@
   <!-- Divider -->
   <line x1="500" y1="25" x2="500" y2="115" stroke="#260A0A" stroke-width="1"/>
 
-  <!-- Col 3: Security &amp; Stateless -->
+  <!-- Col 3: Security • Stateless -->
   <g transform="translate(530, 28)">
     <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">RBAC</text>
     <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Seguridad Stateless</text>
@@ -43,10 +43,10 @@
   <!-- Divider -->
   <line x1="740" y1="25" x2="740" y2="115" stroke="#260A0A" stroke-width="1"/>
 
-  <!-- Col 4: Testing &amp; Quality -->
+  <!-- Col 4: Testing • Quality -->
   <g transform="translate(770, 28)">
     <text x="0" y="24" fill="#E50914" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="900">100%</text>
     <text x="0" y="48" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">Testing Automatizado</text>
-    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">JUnit 5, Mockito &amp; Docker</text>
+    <text x="0" y="66" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">JUnit 5, Mockito • Docker</text>
   </g>
 </svg>
