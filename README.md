@@ -43,24 +43,24 @@ Integro **Inteligencia Artificial como co-piloto activo de ingeniería**, diseñ
 <div align="center">
   <table border="0" cellpadding="4" cellspacing="6">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg?v=5" alt="Java" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg?v=5" alt="Spring Boot" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg?v=5" alt="Spring Security" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-java.svg?v=6" alt="Java" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-spring.svg?v=6" alt="Spring Boot" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-security.svg?v=6" alt="Spring Security" width="250" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg?v=5" alt="Hexagonal DDD" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg?v=5" alt="PostgreSQL" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg?v=5" alt="Flyway" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ddd.svg?v=6" alt="Hexagonal DDD" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-postgres.svg?v=6" alt="PostgreSQL" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-flyway.svg?v=6" alt="Flyway" width="250" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg?v=5" alt="Docker" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg?v=5" alt="JUnit Mockito" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg?v=5" alt="Python" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-docker.svg?v=6" alt="Docker" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-junit.svg?v=6" alt="JUnit Mockito" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-python.svg?v=6" alt="Python" width="250" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg?v=5" alt="Linux Bash" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg?v=5" alt="Git" width="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-ai.svg?v=5" alt="AI Assisted" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-linux.svg?v=6" alt="Linux Bash" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-git.svg?v=6" alt="Git" width="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/Leonardo4516/Leonardo4516/main/assets/badges/card-js.svg?v=6" alt="JavaScript" width="250" /></td>
     </tr>
   </table>
 </div>
